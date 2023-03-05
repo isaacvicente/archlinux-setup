@@ -1,0 +1,7 @@
+brave-bin
+gnome-browser-connector
+google-chrome
+paru
+visual-studio-code-bin
+xdg-ninja
+zramd
